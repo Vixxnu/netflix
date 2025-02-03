@@ -34,3 +34,11 @@
 .smallposter:hover{
     transform: scale(1.1);
 }
+
+.movietitle{
+    font-size: 20px;
+    margin-top: 5px;
+    color: white; /* Adjust based on your theme */
+    text-align: center;
+    margin-top: 10px;
+}
